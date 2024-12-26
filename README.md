@@ -13,7 +13,7 @@
   <a href="mailto:nikita.volkov92595@gmail.com">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/gmail-color.svg" width="50" height="50">
   </a>
-  <a href="https://t.me/perilla52">
+  <a href="http://instagram.com/siperosex">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/instagram.svg" width="50" height="50">
   </a>
 </div>
@@ -28,25 +28,30 @@
 </div>
 
 ---
-
-<div>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/git.svg" title="Git"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/html5.svg" title="HTML"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/jupyter.svg" title="Jupyter"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/latex.svg" title="LaTex"  width="60" height="60"/>
+### Languages
+<div id="languages">
+  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/swift-color.svg" title="Swift"  width="60" height="60"/>
+  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/python-color.svg" title="Python"  width="60" height="60"/>
   <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/matlab.svg" title="Matlab"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/matplotlib.svg" title="matplotlib"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/mechanical-soup.svg" title="MechSoup"  width="60" height="60"/>
+  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/html5.svg" title="HTML"  width="60" height="60"/>
+  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/latex.svg" title="LaTex"  width="60" height="60"/>
+</div>
+
+### Tools and technologies
+<div id="tools">
+  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/git.svg" title="Git"  width="60" height="60"/>
+  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/postgresql.svg" title="PGSQL"  width="60" height="60"/>
   <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/numpy.svg" title="NumPy"  width="60" height="60"/>
   <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pandas.svg" title="Pandas"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/postgresql.svg" title="PGSQL"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pycharm-original.svg" title="PyCharm"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/python-color.svg" title="Python"  width="60" height="60"/>
+  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/matplotlib.svg" title="matplotlib"  width="60" height="60"/>
+  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/jupyter.svg" title="Jupyter"  width="60" height="60"/>
+  <br>
+  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/mechanical-soup.svg" title="MechSoup"  width="60" height="60"/>
   <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/selenium.svg" title="Selenium"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/swift-color.svg" title="Swift"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/vscode.svg" title="VSCode"  width="60" height="60"/>
   <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/wolfram-color.svg" title="Wolfram"  width="60" height="60"/>
   <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/xcode-original.svg" title="Xcode"  width="60" height="60"/>
+  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pycharm-original.svg" title="PyCharm"  width="60" height="60"/>
+  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/vscode.svg" title="VSCode"  width="60" height="60"/>
 </div>
 
 <!--
