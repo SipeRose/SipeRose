@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU0dTZjMHRnbXNleGRlZDkwZTBjM3ZmNnV4NTlzdXVvZ3ltdDhzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU0dTZjMHRnbXNleGRlZDkwZTBjM3ZmNnV4NTlzdXVvZ3ltdDhzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="500"/>
 
 <!--
 **SipeRose/SipeRose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
