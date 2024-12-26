@@ -5,18 +5,7 @@
 </div>
 <br>
 
-### Connect with me:
-<div id="socialmedia">
-  <a href="https://t.me/perilla52">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/telegram-color.svg" width="50" height="50">
-  </a>
-  <a href="mailto:nikita.volkov92595@gmail.com">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/gmail-color.svg" width="50" height="50">
-  </a>
-  <a href="http://instagram.com/siperosex">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/instagram.svg" width="50" height="50">
-  </a>
-</div>
+
 
 <br>
 
@@ -52,6 +41,21 @@
   <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/xcode-original.svg" title="Xcode"  width="60" height="60"/>
   <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pycharm-original.svg" title="PyCharm"  width="60" height="60"/>
   <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/vscode.svg" title="VSCode"  width="60" height="60"/>
+</div>
+
+---
+
+### Connect with me:
+<div id="socialmedia">
+  <a href="https://t.me/perilla52">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/telegram-color.svg" width="50" height="50">
+  </a>
+  <a href="mailto:nikita.volkov92595@gmail.com">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/gmail-color.svg" width="50" height="50">
+  </a>
+  <a href="http://instagram.com/siperosex">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/instagram.svg" width="50" height="50">
+  </a>
 </div>
 
 <!--
