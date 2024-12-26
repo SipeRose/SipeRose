@@ -6,12 +6,21 @@
 <br>
 
 ### Connect with me:
-<div>
+<div id="socialmedia">
   <a href="https://t.me/perilla52">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/telegram-color.svg" width="50" height="50">
   </a>
+  <a href="nikita.volkov92595@gmail.com">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/gmail-color.svg" width="50" height="50">
+  </a>
+  <a href="https://t.me/perilla52">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/instagram.svg" width="50" height="50">
+  </a>
 </div>
 
+<br>
+
+### Look my scientific work at:
 <div id="badges">
   <a href="https://www.researchgate.net/profile/Nikita-Volkov-14">
     <img src="https://img.shields.io/badge/ResearchGate-white?style=for-the-badge">
