@@ -1,7 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Nikita!
 
 <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU0dTZjMHRnbXNleGRlZDkwZTBjM3ZmNnV4NTlzdXVvZ3ltdDhzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="500"/>
+</div>
+
+<div id="badges">
+<a href="https://www.researchgate.net/profile/Nikita-Volkov-14">
+  <img src="https://img.shields.io/badge/ResearchGate-white?style=for-the-badge">
+</a>
 </div>
 
 <!--
