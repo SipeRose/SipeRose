@@ -10,7 +10,7 @@
   <a href="https://t.me/perilla52">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/telegram-color.svg" width="50" height="50">
   </a>
-  <a href="nikita.volkov92595@gmail.com">
+  <a href="mailto:nikita.volkov92595@gmail.com">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/gmail-color.svg" width="50" height="50">
   </a>
   <a href="https://t.me/perilla52">
