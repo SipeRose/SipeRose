@@ -49,19 +49,43 @@ I am an IOS Developer, Data analyst and mathematician <img src="https://i.giphy.
 
 ### Tools and technologies
 <div id="tools">
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/git.svg" title="Git"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/postgresql.svg" title="PGSQL"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/numpy.svg" title="NumPy"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pandas.svg" title="Pandas"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/matplotlib.svg" title="matplotlib"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/jupyter.svg" title="Jupyter"  width="60" height="60"/>
+  <a href="https://git-scm.com/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/git.svg" title="Git"  width="60" height="60"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/postgresql.svg" title="PGSQL"  width="60" height="60"/>
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/numpy.svg" title="NumPy"  width="60" height="60"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pandas.svg" title="Pandas"  width="60" height="60"/>
+  </a>
+  <a href="https://matplotlib.org/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/matplotlib.svg" title="matplotlib"  width="60" height="60"/>
+  </a>
+  <a href="https://jupyter.org/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/jupyter.svg" title="Jupyter"  width="60" height="60"/>
+  </a>
   <br>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/mechanical-soup.svg" title="MechSoup"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/selenium.svg" title="Selenium"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/wolfram-color.svg" title="Wolfram"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/xcode-original.svg" title="Xcode"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pycharm-original.svg" title="PyCharm"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/vscode.svg" title="VSCode"  width="60" height="60"/>
+  <a href="https://mechanicalsoup.readthedocs.io/en/stable/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/mechanical-soup.svg" title="MechSoup"  width="60" height="60"/>
+  </a>
+  <a href="https://www.selenium.dev/selenium/docs/api/py/index.html">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/selenium.svg" title="Selenium"  width="60" height="60"/>
+  </a>
+  <a href="https://www.wolfram.com/mathematica/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/wolfram-color.svg" title="Wolfram"  width="60" height="60"/>
+  </a>
+  <a href="https://developer.apple.com/xcode/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/xcode-original.svg" title="Xcode"  width="60" height="60"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pycharm-original.svg" title="PyCharm"  width="60" height="60"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/vscode.svg" title="VSCode"  width="60" height="60"/>
+  </a>
 </div>
 
 ---
