@@ -30,11 +30,21 @@ I am an IOS Developer, Data analyst and mathematician <img src="https://i.giphy.
 ---
 ### Languages
 <div id="languages">
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/swift-color.svg" title="Swift"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/python-color.svg" title="Python"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/matlab.svg" title="Matlab"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/html5.svg" title="HTML"  width="60" height="60"/>
-  <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/latex.svg" title="LaTex"  width="60" height="60"/>
+  <a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/swift-color.svg" title="Swift"  width="60" height="60"/>
+  </a>
+  <a href="https://python.org">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/python-color.svg" title="Python"  width="60"   height="60"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/matlab.svg" title="Matlab"  width="60" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/html5.svg" title="HTML"  width="60" height="60"/>
+  </a>
+  <a href="https://www.latex-project.org/help/documentation/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/latex.svg" title="LaTex"  width="60" height="60"/>
+  </a>
 </div>
 
 ### Tools and technologies
