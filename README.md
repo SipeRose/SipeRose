@@ -31,61 +31,44 @@ I am an IOS Developer, Data analyst and mathematician <img src="https://i.giphy.
 ### Languages
 <div id="languages">
   <a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/swift-color.svg" title="Swift"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/swift-color.svg" title="Swift"  width="60" height="60"/></a>
   <a href="https://python.org">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/python-color.svg" title="Python"  width="60"   height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/python-color.svg" title="Python"  width="60"   height="60"/></a>
   <a href="https://www.mathworks.com/products/matlab.html">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/matlab.svg" title="Matlab"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/matlab.svg" title="Matlab"  width="60" height="60"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/html5.svg" title="HTML"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/html5.svg" title="HTML"  width="60" height="60"/></a>
   <a href="https://www.latex-project.org/help/documentation/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/latex.svg" title="LaTex"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/latex.svg" title="LaTex"  width="60" height="60"/></a>
 </div>
 
 ### Tools and technologies
 <div id="tools">
   <a href="https://git-scm.com/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/git.svg" title="Git"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/git.svg" title="Git"  width="60" height="60"/></a>
   <a href="https://www.postgresql.org/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/postgresql.svg" title="PGSQL"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/postgresql.svg" title="PGSQL"  width="60" height="60"/></a>
   <a href="https://numpy.org/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/numpy.svg" title="NumPy"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/numpy.svg" title="NumPy"  width="60" height="60"/></a>
   <a href="https://pandas.pydata.org/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pandas.svg" title="Pandas"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pandas.svg" title="Pandas"  width="60" height="60"/></a>
   <a href="https://matplotlib.org/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/matplotlib.svg" title="matplotlib"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/matplotlib.svg" title="matplotlib"  width="60" height="60"/></a>
   <a href="https://jupyter.org/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/jupyter.svg" title="Jupyter"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/jupyter.svg" title="Jupyter"  width="60" height="60"/></a>
   <br>
   <a href="https://mechanicalsoup.readthedocs.io/en/stable/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/mechanical-soup.svg" title="MechSoup"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/mechanical-soup.svg" title="MechSoup"  width="60" height="60"/></a>
   <a href="https://www.selenium.dev/selenium/docs/api/py/index.html">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/selenium.svg" title="Selenium"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/selenium.svg" title="Selenium"  width="60" height="60"/></a>
   <a href="https://www.wolfram.com/mathematica/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/wolfram-color.svg" title="Wolfram"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/wolfram-color.svg" title="Wolfram"  width="60" height="60"/></a>
   <a href="https://developer.apple.com/xcode/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/xcode-original.svg" title="Xcode"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/xcode-original.svg" title="Xcode"  width="60" height="60"/></a>
   <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pycharm-original.svg" title="PyCharm"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pycharm-original.svg" title="PyCharm"  width="60" height="60"/></a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/vscode.svg" title="VSCode"  width="60" height="60"/>
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/vscode.svg" title="VSCode"  width="60" height="60"/></a>
 </div>
 
 ---
@@ -93,16 +76,13 @@ I am an IOS Developer, Data analyst and mathematician <img src="https://i.giphy.
 ### Connect with me:
 <div id="socialmedia">
   <a href="https://t.me/perilla52">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/telegram-color.svg" width="50" height="50"> 
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/telegram-color.svg" width="50" height="50"></a>
   
   <a href="mailto:nikita.volkov92595@gmail.com">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/gmail-color.svg" width="50" height="50"> 
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/gmail-color.svg" width="50" height="50"></a>
   
   <a href="http://instagram.com/siperosex">
-    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/instagram.svg" width="50" height="50">
-  </a>
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/instagram.svg" width="50" height="50"></a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=SipeRose&style=flat-square&color=blue" alt="SipeRose"/>
