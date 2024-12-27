@@ -81,7 +81,7 @@ I am an IOS Developer, Data analyst and mathematician <img src="https://i.giphy.
   <a href="mailto:nikita.volkov92595@gmail.com">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/gmail-color.svg" width="50" height="50"></a>
   
-  <a href="http://instagram.com/siperosex">
+  <a href="https://www.instagram.com/siperosex?igsh=YndnbjQyNXdjaW55">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/instagram.svg" width="50" height="50"></a>
 </div>
 
