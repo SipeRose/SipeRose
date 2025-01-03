@@ -9,7 +9,7 @@
 
 ### :man_technologist: About Me :
 I am an IOS Developer, Data analyst and mathematician <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZiZGJuMGhzamxzMzQzczc3NG15Zm40bDh0cWl1bGd5ZnBodnQwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otOKtnGppPi5Q4hOw/giphy.gif" width="40"> from Moscow.
-- 🔬 I’m a BMSTU student — FS1 (Department of Mathematics), master of applyed mathematics (2026).
+- 🔬 I’m a BMSTU student — FS1 (Department of Mathematics): bachelor of applyed mathematics (2024), master of applyed mathematics (2026).
 
 - 📑 Now I'm working on my IOS projects and scientific work (statistical mechanics) — I explore the Ising model with multi-spin interactions.
   
