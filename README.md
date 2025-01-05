@@ -46,6 +46,8 @@ I am an IOS Developer, Data analyst and mathematician <img src="https://i.giphy.
 <div id="tools">
   <a href="https://git-scm.com/">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/git.svg" title="Git"  width="60" height="60"/></a>
+  <a href="https://www.mysql.com/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/mysql.svg" title="MYSQL"  width="60" height="60"/></a>
   <a href="https://www.postgresql.org/">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/postgresql.svg" title="PGSQL"  width="60" height="60"/></a>
   <a href="https://numpy.org/">
