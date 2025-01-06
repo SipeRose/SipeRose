@@ -46,6 +46,8 @@ I am an IOS Developer, Data analyst and mathematician <img src="https://i.giphy.
 <div id="tools">
   <a href="https://git-scm.com/">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/git.svg" title="Git"  width="60" height="60"/></a>
+  <a href="https://developer.apple.com/xcode/swiftui/">
+    <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/swiftui.png" title="SUI"  width="60" height="60"/></a>
   <a href="https://www.mysql.com/">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/mysql.svg" title="MYSQL"  width="60" height="60"/></a>
   <a href="https://www.postgresql.org/">
@@ -56,9 +58,9 @@ I am an IOS Developer, Data analyst and mathematician <img src="https://i.giphy.
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/pandas.svg" title="Pandas"  width="60" height="60"/></a>
   <a href="https://matplotlib.org/">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/matplotlib.svg" title="matplotlib"  width="60" height="60"/></a>
+  <br>
   <a href="https://jupyter.org/">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/jupyter.svg" title="Jupyter"  width="60" height="60"/></a>
-  <br>
   <a href="https://mechanicalsoup.readthedocs.io/en/stable/">
     <img src="https://github.com/SipeRose/SipeRose/blob/main/logos/mechanical-soup.svg" title="MechSoup"  width="60" height="60"/></a>
   <a href="https://www.selenium.dev/selenium/docs/api/py/index.html">
