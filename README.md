@@ -13,9 +13,9 @@ I am an IOS Developer, Data analyst and mathematician <img src="https://i.giphy.
 
 - 📑 Now I'm working on my IOS projects and scientific work (statistical mechanics) — I explore the Ising model with multi-spin interactions.
   
-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21hNGJzNTF3czFlaDB6aTc2NzJtNDI4NDJxbnRsYnFoZ2xxbHRxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AXorq76Tg3Vte/giphy.gif" width="40"> Also like numerical methods, calculus and algebra.
+- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21hNGJzNTF3czFlaDB6aTc2NzJtNDI4NDJxbnRsYnFoZ2xxbHRxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AXorq76Tg3Vte/giphy.gif" width="40"> Also like numerical methods and algebra.
 
-- 📚 Stack: IOS, UIKit, SwiftUI, Data Analysis
+- 📚 Stack: Data Engenering, DWH, Data Architecture, ETL, System Analysis, IOS, UIKit, SwiftUI
 
 
 <div id="badges">
