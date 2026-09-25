@@ -8,10 +8,10 @@
 <br>
 
 ### :man_technologist: About Me :
-I am an IOS Developer, Data analyst and mathematician <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZiZGJuMGhzamxzMzQzczc3NG15Zm40bDh0cWl1bGd5ZnBodnQwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otOKtnGppPi5Q4hOw/giphy.gif" width="40"> from Moscow.
+I am an Data Engineer, System Analyst, and IOS Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZiZGJuMGhzamxzMzQzczc3NG15Zm40bDh0cWl1bGd5ZnBodnQwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otOKtnGppPi5Q4hOw/giphy.gif" width="40"> from Moscow.
 - 🔬 I’m a former BMSTU student — FS1 (Department of Mathematics): bachelor of applyed mathematics (2024), master of applyed mathematics (2026).
 
-- 📑 Now I'm working as a Data Engineer and System Analyst.
+- 📑 Now I'm working as a Data Engineer and System Analyst. 
   
 - Also like numerical methods and algebra.
 
